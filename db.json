@@ -13,7 +13,7 @@
             "partTime": false,
             "entryLevel": true
         },
-        "aboutUsVideos": [
+        "aboutUs": [
             {
                 "id": "vid_001",
                 "title": "Vision",
@@ -47,7 +47,7 @@
                 "gifUrl": "https://images.pexels.com/photos/1267696/pexels-photo-1267696.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=100"
             }
         ],
-        "jobPostingVideos": [
+        "videos": [
             {
                 "id": "vid_001",
                 "title": "Financial Advisor",
