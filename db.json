@@ -85,7 +85,7 @@
     "feed": [
         {
             "id": "feed_001",
-            "type": "user",
+            "type": "person",
             "author": {
                 "authorId": "user_001",
                 "name": "Michael Parker",
@@ -97,9 +97,9 @@
         },
         {
             "id": "feed_003",
-            "type": "user",
+            "type": "person",
             "author": {
-                "authorId": "comp_003",
+                "authorId": "user_003",
                 "name": "Francis Michigha",
                 "imageUrl": "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=100"
             },
@@ -109,9 +109,9 @@
         },
         {
             "id": "feed_004",
-            "type": "user",
+            "type": "person",
             "author": {
-                "authorId": "comp_004",
+                "authorId": "user_004",
                 "name": "Renee Libertina",
                 "imageUrl": "https://images.pexels.com/photos/2773977/pexels-photo-2773977.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=100g"
             },
@@ -121,9 +121,9 @@
         },
         {
             "id": "feed_005",
-            "type": "user",
+            "type": "person",
             "author": {
-                "authorId": "comp_005",
+                "authorId": "user_005",
                 "name": "Sarah Malgomery",
                 "imageUrl": "https://images.pexels.com/photos/5103896/pexels-photo-5103896.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=100"
             },
